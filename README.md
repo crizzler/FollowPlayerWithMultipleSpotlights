@@ -1,4 +1,5 @@
 Follow Player With Multiple Spotlights
+
 A Unity script that enables multiple spotlights to follow and optionally orbit around a player or any specified object in the scene. Each spotlight can have individual settings, like rotation and follow speeds, orbit radius, and more.
 
 Features:
